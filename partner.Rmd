@@ -1,0 +1,15 @@
+---
+title: "partner"
+author: "Desmond Orton (dorton21)"
+date: "2/3/2021"
+output: html_document
+---
+
+Partner's Name
+Mario Lloyd Galvao-Wilson (Mariolgw)
+
+The most recent commit was both the .html file and the .Rmd file.  The message of the commit is hw1 commit. 
+ The commit was: bb8087149e973ba63b8ac5a370fa25652245cd9d
+
+I encountered no errors knitting my partner's project.  
+We did not have any difficulties with github and everything was straight forward.  
